@@ -1,0 +1,19 @@
+notebooks/unstructured_transform_mcp.ipynb
+  s_e8b375b4c95ae5::t_5e6c5e76316b0e 116-118,120,123-131,137,142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "a43991066975a5ebb977d29e0191886343ee9fe4",
+  "prompts": {},
+  "sessions": {
+    "s_e8b375b4c95ae5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e949db8a-1ad2-4786-95e6-0a59728e0d24",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "David Dizon <dizon@unstructured.io>"
+    }
+  }
+}
